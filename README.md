@@ -79,4 +79,4 @@ Successfully reduced dataset dimensionality, visualizing the core components in 
 ## Reflection
 This week has been an exhilarating journey into the core concepts of machine learning and data preprocessing. Each task has reinforced the importance of a solid foundation, setting the stage for more advanced explorations in the weeks to come.
 
-Stay
+
