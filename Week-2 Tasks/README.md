@@ -33,10 +33,7 @@ Welcome to the Week 2 tasks for my Machine Learning Internship! This week has be
 
 - **Notebook PDF:** [Week 2 Tasks Notebook PDF](path-to-notebook-pdf)
 - **PPT Presentation:** [Week 2 Tasks PPT Presentation](path-to-ppt)
-
-## 📽️ Full Explanatory Video
-
-Check out the full explanatory video for a detailed walkthrough of these tasks: [Watch Video](video-link)
+- 
 
 ## 💡 Feedback
 
