@@ -18,8 +18,6 @@ Welcome to the **Ultimate Data Science Adventure!** 🌍 Dive into the fascinati
 
 ## 🌲 Task 1: Gradient Boosting Machine with XGBoost
 
-![XGBoost Logo](https://github.com/MirAb-77/Advanced-ML-DL-Projects/blob/main/assets/xgboost_sticker.png)
-
 **Objective:** 🚀 Implement a Gradient Boosting Machine using XGBoost and fine-tune the hyperparameters for optimal performance.
 
 **Description:**
@@ -32,8 +30,6 @@ Gradient Boosting Machines are the secret sauce behind many winning Kaggle compe
 
 
 ## 📉 Task 2: Recurrent Neural Network for Time Series Forecasting
-
-![RNN Sticker](https://github.com/MirAb-77/Advanced-ML-DL-Projects/blob/main/assets/rnn_sticker.png)
 
 **Objective:** 🧠 Train a Recurrent Neural Network (RNN) with LSTM/GRU units to forecast future trends in time series data.
 
@@ -48,8 +44,6 @@ In this task, we delve into the world of **sequential data**. Whether it’s sto
 
 ## 💬 Task 3: NLP Pipeline with Word Embeddings and RNNs
 
-![NLP Sticker](https://github.com/MirAb-77/Advanced-ML-DL-Projects/blob/main/assets/nlp_sticker.png)
-
 **Objective:** 📝 Build an NLP pipeline using Word Embeddings and RNNs to perform sentiment analysis.
 
 **Description:**
@@ -62,8 +56,6 @@ Language is powerful, and understanding sentiment is crucial for businesses and 
 
 
 ## 🎨 Task 4: Generative Adversarial Networks (GANs)
-
-![GAN Sticker](https://github.com/MirAb-77/Advanced-ML-DL-Projects/blob/main/assets/gan_sticker.png)
 
 **Objective:** 🖼️ Implement a GAN to generate synthetic images and train the model on a chosen dataset.
 
@@ -78,8 +70,6 @@ Step into the world of creativity with **Generative Adversarial Networks (GANs)*
 
 ## 🔍 Task 5: Recommendation System using Collaborative Filtering
 
-![Recommendation Sticker](https://github.com/MirAb-77/Advanced-ML-DL-Projects/blob/main/assets/recommendation_sticker.png)
-
 **Objective:** 🎯 Develop a recommendation system using collaborative filtering and matrix factorization techniques.
 
 **Description:**
@@ -92,8 +82,6 @@ Ever wondered how Netflix or Amazon knows what you might like? It’s all about 
 
 
 ## 🎮 Task 6: Reinforcement Learning with Q-Learning
-
-![Reinforcement Learning Sticker](https://github.com/MirAb-77/Advanced-ML-DL-Projects/blob/main/assets/rl_sticker.png)
 
 **Objective:** 🕹️ Implement a reinforcement learning algorithm (Q-learning, DQN) in a complex environment.
 
@@ -108,8 +96,6 @@ Reinforcement learning is all about learning by interacting with an environment.
 ---
 
 ## ⚖️ Task 7: Performance Comparison - Traditional ML vs. Deep Learning
-
-![Comparison Sticker](https://github.com/MirAb-77/Advanced-ML-DL-Projects/blob/main/assets/comparison_sticker.png)
 
 **Objective:** 📊 Compare the performance of traditional machine learning algorithms with deep learning models on a complex dataset.
 
